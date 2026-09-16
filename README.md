@@ -2,6 +2,7 @@
 
 I am a student-athlete at Baldwin Wallace University.
 
+* For Resume, click [here](https://rawcdn.githack.com/obrazee/obrazee/77033da3bbe8f430f7488be369ca9c9430248799/Resume%201%20-%20Owen%20Brazee%20-%20PDF.pdf)
 ---
 
 ### 🎓 About Me
