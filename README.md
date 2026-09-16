@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Owen 👋
 
-<!--
-**obrazee/obrazee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student-athlete at Baldwin Wallace University.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a bachelors in Accounting and Finance at Baldwin Wallace University (Expected Graduation: May 2028)
+* 🔭 **Current Focus:** Learning core accounting and financial structuring
+* 🌱 **Currently Building:** An understanding of leases and bonds in accounting
+* 💡 **Interests:** Financial management and Artificial Intelligence
+* ⚡ **Fun Fact:** I play baseball at the collegiate level
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using Claude | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** www.linkedin.com/in/owen-brazee-606878329
+* **Email:** obrazee24@bw.edu
